@@ -10,7 +10,7 @@ __________                                .__    __________ .__           __
 Hey there! I'm a <strong>CS</strong> student. Welcome to my GitHub profile.
 
 Skills:
-- Hacking
+- Pentesting
 - Coding
 - Reverse engineering
 - Cryptography
