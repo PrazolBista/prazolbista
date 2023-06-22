@@ -7,16 +7,23 @@ __________                                .__    __________ .__           __
  |____|     |__|   (____  //_____ \\____/ |____/  |______  /|__|/____  > |__|  (____  /
                         \/       \/                      \/          \/             \/ 
                                                 
-Hey there! I'm a <strong>CS</strong> student. Welcome to my GitHub profile.
+# Hi there, I'm Prazol Bista(https://github.com/prazolbista) 👋
 
-Skills:
+![Badge](https://www.credly.com/badges/654ac649-fd6d-46e9-b646-8b3edfdb1fe5/public_url)
+
+I'm a CS student passionate about cybersecurity and coding. Welcome to my GitHub profile! Here are some details about me:
+
+## Skills
 - Pentesting
 - Coding
 - Reverse engineering
 - Cryptography
-- 🔍 OSINT
+- OSINT (Open-Source Intelligence) 🔍
 
-Contact:
-- 🐦 Twitter: <a href="https://twitter.com/prazolbista">@Prazol Bista</a>
+## Contact
+- Twitter: @prazolbista(https://twitter.com/prazolbista)
+
+Feel free to explore my repositories and get in touch. Let's collaborate and learn together!
+
 
 </pre>
