@@ -19,8 +19,6 @@ Skills:
 Contact:
 - 🐦 Twitter: <a href="https://twitter.com/prazolbista">@Prazol Bista</a>
 
- <a href="https://www.credly.com/earned/654ac649-fd6d-46e9-b646-8b3edfdb1fe5">
-  <img src="https://www.credly.com/badges/654ac649-fd6d-46e9-b646-8b3edfdb1fe5/public_url" alt="Badge">
-</a>
+
 
 </pre>
