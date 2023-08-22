@@ -7,7 +7,7 @@ __________                                .__    __________ .__           __
  |____|     |__|   (____  //_____ \\____/ |____/  |______  /|__|/____  > |__|  (____  /
                         \/       \/                      \/          \/             \/ 
                                                 
-Hey there! I'm a <strong>CS</strong> student. Welcome to my GitHub profile.
+Hey there! I'm  <strong>Prazol</strong> Bista. Welcome to my GitHub profile.
 
 Skills:
 - Pentesting
